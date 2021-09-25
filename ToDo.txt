@@ -1,0 +1,2 @@
+1. Create C2-client.py.
+2. In server, keep list of nodes that phoned home.

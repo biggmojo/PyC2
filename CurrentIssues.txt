@@ -1,0 +1,2 @@
+1. TCP port binds, but errors out once someone connects to it.
+2. UDP port appears to bind, need to figure out a way to test if it receives messages.
